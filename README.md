@@ -23,9 +23,11 @@ El diseño está construido siguiendo buenas prácticas de HTML semántico y CSS
 
 - HTML5
 - CSS3
-- Responsive Design (Media Queries)
-- Flexbox
-- CSS Grid
+- C#
+- Java
+- SQL
+- Linux
+- C
 
 ---
 
